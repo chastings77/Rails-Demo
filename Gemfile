@@ -7,6 +7,7 @@ gem 'rails', '3.2.1'
 
 gem 'sqlite3', '~> 1.3.6', :platform => 'ruby'
 gem 'mysql2', :group => :production
+gem 'pg', :group => :production
 gem 'bundler', '~> 1.0.17'
 
 # Gems used only for assets and not required
